@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Exam-Assistant-App/static/css/main.4a4e7c82.chunk.css",
+    "main.js": "/Exam-Assistant-App/static/js/main.2f788789.chunk.js",
+    "main.js.map": "/Exam-Assistant-App/static/js/main.2f788789.chunk.js.map",
+    "runtime-main.js": "/Exam-Assistant-App/static/js/runtime-main.43a4fef9.js",
+    "runtime-main.js.map": "/Exam-Assistant-App/static/js/runtime-main.43a4fef9.js.map",
+    "static/css/2.66cbc4d4.chunk.css": "/Exam-Assistant-App/static/css/2.66cbc4d4.chunk.css",
+    "static/js/2.28c85316.chunk.js": "/Exam-Assistant-App/static/js/2.28c85316.chunk.js",
+    "static/js/2.28c85316.chunk.js.map": "/Exam-Assistant-App/static/js/2.28c85316.chunk.js.map",
+    "index.html": "/Exam-Assistant-App/index.html",
+    "static/css/2.66cbc4d4.chunk.css.map": "/Exam-Assistant-App/static/css/2.66cbc4d4.chunk.css.map",
+    "static/css/main.4a4e7c82.chunk.css.map": "/Exam-Assistant-App/static/css/main.4a4e7c82.chunk.css.map",
+    "static/js/2.28c85316.chunk.js.LICENSE.txt": "/Exam-Assistant-App/static/js/2.28c85316.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.43a4fef9.js",
+    "static/css/2.66cbc4d4.chunk.css",
+    "static/js/2.28c85316.chunk.js",
+    "static/css/main.4a4e7c82.chunk.css",
+    "static/js/main.2f788789.chunk.js"
+  ]
+}
