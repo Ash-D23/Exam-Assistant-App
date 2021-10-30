@@ -1,0 +1,11 @@
+.field-label{
+    display: block;
+    padding: 10px;
+}
+
+.field-input{
+    margin: 10px;
+    margin-bottom: 20px;
+    padding: 5px 10px;
+    border-radius: 5px;
+}

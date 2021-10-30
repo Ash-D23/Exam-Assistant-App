@@ -1,0 +1,27 @@
+.login-main{
+  background: linear-gradient(transparent, rgba(0, 0, 0, 1));
+  background-color: rgb(91, 87, 115);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.login-form{
+    width: 400px;
+    height: 400px;
+    border-radius: 20px;
+    background: white;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.login-title{
+  padding-bottom: 15px;
+}
+
+.login-link{
+  padding: 15px;
+}

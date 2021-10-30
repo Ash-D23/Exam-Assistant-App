@@ -1,0 +1,62 @@
+.teach{
+  height: 100vh;
+  background: linear-gradient(transparent, rgba(0, 0, 0, 1));
+  background-color: rgb(91, 87, 115);
+}
+
+.teacher-container{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.teach-con{
+  display: flex;
+  flex-direction: column;
+  border: solid 2px white;
+  background-color: white;
+  width: 25%;
+  padding: 20px;
+  height:75vh;
+  justify-content: center;
+}
+
+.teach-title{
+  text-align: center;
+}
+
+.teach-form{
+  margin-top: 15px;
+  display: flex;
+  flex-direction: column;
+}
+
+label{
+  padding-top: 10px;
+  padding-bottom: 8px;
+}
+
+select{
+  height: 25px;
+}
+
+.btn-t{
+  text-decoration: none;
+  color: white
+}
+
+.btn-teach{
+  margin-top: 15px;
+  margin-left: 10px;
+}
+
+input{
+  height: 25px;
+  padding: 5px;
+}
+
+#selectList{
+  padding: 5px;
+  height: 35px;
+}
